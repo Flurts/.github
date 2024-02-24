@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to Flummy!👋</h1>
+<h1 align="center">Welcome to Turts!👋</h1>
 
 ![Background-Image](./profile/Images-Github/GitHub-Background2.png)
 
@@ -32,8 +32,8 @@ We are a company committed to creating meaningful connections between people and
 
 ## Networks 🪐
 <div align="left">
-  <a href="https://www.linkedin.com/company/flummy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unsimpledev"/></a>
+  <a href="https://github.com/turt-sCharp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unsimpledev"/></a>
   <a href="https://github.com/Flummy-Dev/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"/></a>
 </div>
 
-```
+
