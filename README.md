@@ -1,8 +1,6 @@
 
 <h1 align="center">Welcome to Turts!👋</h1>
 
-![Background-Image](./profile/Images-Github/GitHub-Background2.png)
-
 ## Presentation 📖
 
 We are a company committed to creating meaningful connections between people and progress, and to responding to today's needs. We focus on sustainability and innovation, striving to develop solutions that not only meet immediate demands, but also ensure a better future. 🚀
