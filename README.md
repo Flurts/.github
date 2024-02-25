@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to Turts!👋</h1>
+<h1 align="center">Welcome to Flurt's!👋</h1>
 
 ## Presentation 📖
 
